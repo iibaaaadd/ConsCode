@@ -93,7 +93,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-3xl blur-xl"></div>
               <img 
-                src="/whyUs.png" 
+                src="whyUs.png" 
                 alt="Web Development Illustration" 
                 className="relative z-10 w-full h-auto rounded-2xl shadow-2xl"
               />

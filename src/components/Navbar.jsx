@@ -53,7 +53,7 @@ const Navbar = () => {
           {/* Logo & Brand - Simple hover effect */}
           <div className="flex items-center gap-3">
             <img 
-              src="/ConsCode.jpeg" 
+              src="ConsCode.jpeg" 
               alt="ConsCode Logo" 
               className="w-10 h-10 rounded-full" 
             />
